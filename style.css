@@ -1,0 +1,17 @@
+body{ 
+background-color: rgb(217, 252, 246);
+}
+
+h1 {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(255, 93, 93);
+}
+p {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(0, 74, 138);
+}
+
+.links{
+font-family: monospace;
+font-size: large;
+}
